@@ -1,0 +1,30 @@
+h1{
+    font-family: "Brush Script MT",Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    background-color: bisque;
+    font-weight: bolder;
+    text-align: center;
+}
+
+img{
+    max-width: 350px;
+    height: auto;
+    ;
+}
+
+.recipe-card{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    font-weight: 300;
+}
+
+.description{
+    background-color: bisque;
+    font-size: medium;
+    font-weight: 300;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.recipe-card strong{
+    color: red;
+    font-size:medium
+}
